@@ -1,6 +1,3 @@
 # Demo CI/CD 
 
-React App
-Docker
-Trevis CI
-AWS
+React App + Docker + Travis CI + AWS
