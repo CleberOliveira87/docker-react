@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello World!
+          I was changed on the Feature branch flow
         </p>
         <a
           className="App-link"
