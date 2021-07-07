@@ -1,3 +1,3 @@
 # Demo CI/CD 
 
-React App + Docker + Travis CI + AWS
+React App + Docker + Travis CI + AWS Elasticbeanstalk
